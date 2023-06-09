@@ -11,4 +11,4 @@ setInterval(function(){
     if(index > (images.length - 1)){
         index = 0;
     }
-},12000);
+},4000);
