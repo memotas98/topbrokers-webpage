@@ -536,3 +536,7 @@
 .Carousel_img_pal{
     height: 600px;
 }
+
+*{
+    cursor: url(/real-estate-html-template/img/Imagenes/cursor.png), auto;
+}
